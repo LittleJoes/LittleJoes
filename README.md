@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![Suncurve's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJoes&show_icons=true&theme=transparenttitle_color=FFD700&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true)
 
-![Suncurve's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LittleJoes&show_icons=true&theme=transparenttitle_color=FFD700&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&langs_count=11&hide=html,css,makefile,shell)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleJoes&layout=compact)](https://github.com/LittleJoes/)
 
 <p align="center">
     <img alt="Visitors" src="https://komarev.com/ghpvc/?username=LittleJoes&style=flat-square" />
